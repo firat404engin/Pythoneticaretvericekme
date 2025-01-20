@@ -1,1 +1,1 @@
-[Proje Tezi (PDF)](Proje Tezi.doc.pdf)
+[Proje Tezi (PDF)](Proje%20Tezi.docx.pdf)
