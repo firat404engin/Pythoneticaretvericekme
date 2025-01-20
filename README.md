@@ -39,6 +39,9 @@ Bu proje, **Trendyol** platformundan ürün bilgilerini çekerek veritabanına g
 - **`data_scraper.py`**: Trendyol'dan ürün bilgilerini çeken ve veritabanına aktaran Python scripti.
 - **ASP.NET MVC Uygulaması**: SQL Server'daki bilgileri kullanıcı dostu bir arayüzde sunar.
    ![Site Main](gorseller/sitemain.png)
+   ![Android ](gorseller/androidmain.png)
+   ![iPhone Search ](gorseller/iphonesearch.png)
+  ![Database  ](gorseller/veritabaniiphone.png)
 ## 💡 Çalıştırma Adımları
 
 1. **Python Scriptini Çalıştırma**:
